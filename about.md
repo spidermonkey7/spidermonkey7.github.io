@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
+I am Page. I am a student at Westlake Elementary and this is my blog about my adventures.
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I like Basketball. I am in love with French Culture and Paris. I have a younger Sister, Olivia.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[paige@hanbeytech.com](mailto:paige@hanbeytech.com)
